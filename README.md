@@ -6,7 +6,7 @@ The goal of this project was to map earthquake GeoJSON data using JavaScript (JS
 
 ## Results
 ### Overlays and Legend
-In the top right hand corner of the screen for the map, the user is able to toggle between the different views for the map as well as add or deselct the given overlays - so that they can control what data is shown on the map.
+In the top right-hand corner of the screen for the map, the user is able to toggle between the different views for the map as well as add or deselct the given overlays - so that they can control what data is shown on the map. In the bottom right-hand corner is the legend that details the color distinction based on the different magnitudes of the earthquakes.
 
 |                   |                     |
 |-------------------|---------------------|
